@@ -5,7 +5,7 @@ Laravel × Bootstrap で開発した著者管理機能付きの図書管理ア�
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 - 🔐 Laravel UI によるログイン認証  
 - ✍️ 著者の入力 / 編集 / 削除  
@@ -13,9 +13,7 @@ Laravel × Bootstrap で開発した著者管理機能付きの図書管理ア�
 - 🙍‍♂️ プロフィール編集  
 - 🗂 投稿一覧ページ（自分の投稿管理）
 
----
-
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 
 - Laravel  
 - PHP  
